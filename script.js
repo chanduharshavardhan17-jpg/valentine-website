@@ -339,4 +339,3 @@ window.addEventListener("resize", function () {
 });
 
 window.requestAnimationFrame(draw);
-Updated text for Adaline
